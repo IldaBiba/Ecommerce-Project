@@ -1,0 +1,7 @@
+/* CSS */
+.carousel-control-prev-icon-custom,
+.carousel-control-next-icon-custom {
+  filter: invert(0%);
+  background-color: blue; /* Change to the desired color */
+  opacity: 1; /* Ensure opacity is set to 1 */
+}
